@@ -1,4 +1,4 @@
-#CyHelp Starter Code
+#CyHelp Code
 #integer
 cyberBirthYear = 1970
 
